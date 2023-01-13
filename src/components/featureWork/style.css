@@ -1,0 +1,8 @@
+.card-style {
+  width: 100%;
+  border-radius: 1.5rem;
+}
+
+.card-style:hover {
+  opacity: 0.8;
+}
